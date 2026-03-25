@@ -142,9 +142,10 @@ BRRRR investors
 Beginner investors (fast learning curve)
 High-volume deal hunters
 
+👊 Final Thought
+If it’s not obvious, don’t buy it.
+
 ⚠️ Disclaimer
 This tool provides estimates based on available data and conservative assumptions.
 Users should verify all numbers before making investment decisions.
 
-👊 Final Thought
-If it’s not obvious, don’t buy it.
