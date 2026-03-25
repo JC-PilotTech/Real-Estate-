@@ -11,11 +11,17 @@ Deal Sniper is built for investors who want speed, clarity and accuracy when ana
 Instead of complex spreadsheets, this tool gives you:
 
 📍 Auto deal analysis from minimal input
+
 💰 Instant Cash Position (your most important metric)
+
 🔥 Clear decision: BUY / GOOD / WHOLESALE
+
 🎯 Suggested offer strategy (Anchor / Target / Max)
+
 ⚠️ Risk flags and confidence score
+
 ⚡ How It Works
+
 1. Input (single field)
 
 Paste any of the following:
@@ -26,26 +32,35 @@ or  https://zillow.com/...
 
 2. The system automatically extracts:
 Address
+
 Beds / Baths
+
 Square footage
+
 Asking price
 
 4. The analyzer computes:
 Conservative ARV
+
 Safe rent estimate
+
 Rehab cost (with buffer)
+
 Holding + closing costs
+
 Refinance (70% of ARV)
+
 
 6. Output (instant)
 Cash Position: +$18,500 (SURPLUS) 🟢 🔥 BUY
+
 
 🧠 Core Concept
 Cash Position
 Cash Position = Refinance – Total Cost
 Value	Meaning
 Positive	💰 You get money back
-Zero	✅ Break-even deal
+Zero	    ✅ Break-even deal
 Negative	❌ You must add cash
 
 🎯 Decision Logic
