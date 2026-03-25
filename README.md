@@ -57,11 +57,17 @@ Cash Position: +$18,500 (SURPLUS) 🟢 🔥 BUY
 
 🧠 Core Concept
 Cash Position
+
 Cash Position = Refinance – Total Cost
+
 Value	Meaning
+
 Positive	💰 You get money back
+
 Zero	    ✅ Break-even deal
+
 Negative	❌ You must add cash
+
 
 🎯 Decision Logic
 Result	Action
@@ -112,10 +118,15 @@ Image-based rehab estimation
 Bulk deal analysis
 
 🚀 Future Features
+
 📦 Bulk deal upload (analyze 100+ properties)
+
 📈 Portfolio tracking
+
 🔁 Deal comparison mode
+
 📱 Mobile-first interface
+
 
 💡 Ideal Users
 Wholesalers
