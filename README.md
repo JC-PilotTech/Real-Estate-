@@ -70,17 +70,25 @@ Negative	❌ You must add cash
 
 
 🎯 Decision Logic
+
 Result	Action
+
 🔥 BUY (Surplus)	Keep the deal
+
 ✅ GOOD (Break-even)	Acceptable
+
 ❌ WHOLESALE (Cash needed)	Sell or walk
+
 
 💰 Offer Strategy (Auto Generated)
 For every deal, the system suggests:
 
 🟥 Anchor Price — aggressive starting offer
+
 🟡 Target Price — ideal deal
+
 🟢 Max Price — walk-away limit
+
 
 ⚠️ Risk Detection
 The analyzer flags key risks:
